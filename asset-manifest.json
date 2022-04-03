@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/re-expences/static/css/main.e02afce5.css",
+    "main.js": "/re-expences/static/js/main.c00a12e4.js",
+    "index.html": "/re-expences/index.html",
+    "main.e02afce5.css.map": "/re-expences/static/css/main.e02afce5.css.map",
+    "main.c00a12e4.js.map": "/re-expences/static/js/main.c00a12e4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e02afce5.css",
+    "static/js/main.c00a12e4.js"
+  ]
+}
