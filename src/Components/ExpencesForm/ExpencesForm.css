@@ -1,0 +1,28 @@
+.expences-form__parent {
+    max-width: 500px;
+    margin: 0 auto;
+    background: #3d3d2a;
+    margin-bottom: 30px;
+    padding-bottom: 10px;
+}
+
+.expences-form__child {
+    display: inline-grid;
+    padding: 5px 10px;
+    color: white;
+    margin: 2px 13px;
+}
+h3{
+    text-align: center;
+}
+.form-submit {
+    text-align: right;
+    margin-right: 45px;
+}
+button {
+    background: #129812;
+    padding: 5px 20px;
+    outline: none;
+    border: 1px solid green;
+    border-radius: 5px;
+}
